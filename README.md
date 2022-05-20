@@ -2,12 +2,12 @@
 - Sızma testleri için kullanılabilecek keylogger programı.
 - Diğer keylogger ların aksine bu program depolanan veriyi e-posta yoluyla değil, dinlenilen bir porta gönderir.
 
-### Kurulum
+## Kurulum
 - kurulumu yapacağınız dizine gidin (```cd <yol>```)
 - ```git clone https://github.com/spsofme/instance_keylogger``` komutu ile projeyi indirin
 - ```pip install -r requirements.txt``` komutu ile gerekli kütüphaneleri kurun
 
-### Kullanım
+## Kullanım
 1. KeyLogger sınıfı içerisinde host, port ve sendTime değişkenlerinin değerini kendinize göre değiştirin.
 	- host : sizin ip adresiniz
 	- port : dinlediğiniz port numarası (varsayılan: 4444)
