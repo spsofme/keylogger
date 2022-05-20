@@ -12,5 +12,5 @@
 	- host : sizin ip adresiniz
 	- port : dinlediğiniz port numarası (varsayılan: 4444)
 	- sendTime : bilgilerin kaç saniyede bir gönderileceği (varsayılan: 30)
-2. Her hangi bir bilgisayardan bir portu dinlemeye başlayın. (örn: |nc -nvlp 4444|)
+2. Her hangi bir bilgisayardan bir portu dinlemeye başlayın. (örn: ```nc -nvlp 4444```)
 3. programı çalıştırın.
