@@ -1,4 +1,4 @@
-# Instance Keylogger
+# Keylogger
 - Sızma testleri için kullanılabilecek keylogger programı.
 - Diğer keylogger ların aksine bu program depolanan veriyi e-posta yoluyla değil, dinlenilen bir porta gönderir.
 
